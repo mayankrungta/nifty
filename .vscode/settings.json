@@ -60,5 +60,5 @@
   "[properties]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
-  "cSpell.words": ["tailwindcss"]
+  "cSpell.words": ["datasource", "tailwindcss"]
 }
