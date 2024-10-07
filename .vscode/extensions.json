@@ -7,7 +7,7 @@
     "naumovs.color-highlight",
     "dbaeumer.vscode-eslint",
     "sleistner.vscode-fileutils",
-    "ms-vsliveshare.vsliveshare",
+    // "ms-vsliveshare.vsliveshare",
     "esbenp.prettier-vscode",
     "fitzsimonsdevin.rtl-quick-debug",
     "rangav.vscode-thunder-client"
